@@ -1,0 +1,6 @@
+[ 2017-09-08T21:34:13+08:00 ] 127.0.0.1 /chess//chess/Public/Home/js/send.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Chess
+

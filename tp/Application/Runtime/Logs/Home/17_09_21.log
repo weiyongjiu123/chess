@@ -1,0 +1,46 @@
+[ 2017-09-21T21:02:58+08:00 ] 127.0.0.1 /chess/Home/Test/setData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.027784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.027861s ]
+NOTIC: [8] Undefined offset: 1 F:\phpSocket\chess\Application\Home\Controller\TestController.class.php 第 74 行.
+ERR: Redis server went away
+
+[ 2017-09-21T21:03:37+08:00 ] 127.0.0.1 /chess/Home/Test/setData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [8] Undefined offset: 1 F:\phpSocket\chess\Application\Home\Controller\TestController.class.php 第 74 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019080s ]
+
+[ 2017-09-21T21:03:50+08:00 ] 127.0.0.1 /chess/Home/Test/setData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+NOTIC: [8] Undefined offset: 1 F:\phpSocket\chess\Application\Home\Controller\TestController.class.php 第 74 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2017-09-21T21:08:02+08:00 ] 127.0.0.1 /chess/Home/Test/setData
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+NOTIC: [8] Undefined offset: 1 F:\phpSocket\chess\Application\Home\Controller\TestController.class.php 第 75 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+

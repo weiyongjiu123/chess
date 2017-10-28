@@ -7,7 +7,7 @@
 
 代码中用的redis（需要安装redis）是3.0.504
 
-代码中使用thinkphp3.2框架和window版的workerman插件，只能在window使用,在linxu系统下运行可能会出现错误，
+代码中使用thinkphp3.2框架和window版的workerman插件，只能在window系统下运行，在linxu系统下运行可能会出现错误，
 另外还需安装php_redis扩展，用于操作redis数据库
 
 使用方法：<br>
